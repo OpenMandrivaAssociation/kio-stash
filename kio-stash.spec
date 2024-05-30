@@ -1,6 +1,6 @@
 Name:           kio-stash
 Version:	1.0
-Release:        4
+Release:        5
 Summary:        KIO slave and daemon to stash discontinuous file selections
 License:        GPLv2+
 Group:          Graphical desktop/KDE
