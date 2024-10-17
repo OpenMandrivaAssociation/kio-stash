@@ -4,7 +4,7 @@ Release:        5
 Summary:        KIO slave and daemon to stash discontinuous file selections
 License:        GPLv2+
 Group:          Graphical desktop/KDE
-URL:            http://www.kde.org
+URL:            https://www.kde.org
 Source0:        https://download.kde.org/stable/%{name}/%{name}-%{version}.tar.xz
 
 BuildRequires:  pkgconfig(Qt5Core)
